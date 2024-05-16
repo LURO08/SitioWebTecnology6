@@ -6,12 +6,12 @@ import { getFirestore } from 'firebase/firestore';
 
 // Configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDb01h2XL4yHp9SBYTy_YCTjX5YWrOPaMI",
-  authDomain: "ecommerstecnology-7762e.firebaseapp.com",
-  projectId: "ecommerstecnology-7762e",
-  storageBucket: "ecommerstecnology-7762e.appspot.com",
-  messagingSenderId: "122919737248",
-  appId: "1:122919737248:web:b360f3b7cf5de325a7f6c5"
+  apiKey: "AIzaSyCUcoC28-sdsfbgAPofCaYSOt33vAf8Sa4",
+  authDomain: "ecommerstecnology6.firebaseapp.com",
+  projectId: "ecommerstecnology6",
+  storageBucket: "ecommerstecnology6.appspot.com",
+  messagingSenderId: "208838310531",
+  appId: "1:208838310531:web:7b3dc04813b9af2aaf79b6"
 };
 // Inicializa Firebase
 const app = initializeApp(firebaseConfig);
